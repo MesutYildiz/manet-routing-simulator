@@ -4,8 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GUI: Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
 
-A professional MANET (Mobile Ad-hoc Network) routing simulator with an interactive GUI, multiple routing protocols, and mobility models. This project has been refactored from a single 4084-line file into a clean, modular architecture.
-
+A professional MANET (Mobile Ad-hoc Network) routing simulator with an interactive GUI, multiple routing protocols, and mobility models.
 ![MANET Simulator](https://img.shields.io/badge/Status-Active-success)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-brightgreen)
 
@@ -275,3 +274,4 @@ Developed as part of a networking course project, demonstrating:
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
+
